@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-warm-soft-blanket/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Skin Warm Soft Blanket](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-warm-soft-blanket/) |
+| **Get License** | [Obtain a Music License for Skin Warm Soft Blanket](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-warm-soft-blanket/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
